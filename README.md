@@ -21,8 +21,7 @@
 - tinymce-react
 - html-react-parser 
 - react-hook-form
-- redux toolkit(RTK)
-- react-router-dom
+- @reduxjs/toolkit
 
 ## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
