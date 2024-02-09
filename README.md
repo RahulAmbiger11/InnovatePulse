@@ -1,6 +1,6 @@
-# React + Vite
 
-## Mega Project in React (Tech Stack)
+
+# Mega Project in React (Tech Stack)
  - React (FE Library)
  - AppWrite (Backend Services) → Complete B.E as a Service
  → https://cloud.appwrite.io/console/organization-65afd93c5e1f72a26667
@@ -23,7 +23,8 @@
 - react-hook-form
 - redux toolkit(RTK)
 - react-router-dom
-  
+
+## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
